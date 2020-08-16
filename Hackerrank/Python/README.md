@@ -46,14 +46,3 @@
 
 23. [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem)
 
-24. []()
-
-25. []()
-
-26. []()
-
-27. []()
-
-28. []()
-
-29. []()
