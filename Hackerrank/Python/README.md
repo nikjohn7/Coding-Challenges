@@ -1,4 +1,4 @@
-#QUESTION LIST
+# QUESTION LIST
 
 1. [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
 
@@ -46,14 +46,14 @@
 
 23. [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem)
 
-24. []()
+24. [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)
 
-25. []()
+25. [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)
 
-26. []()
+26. [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
 
-27. []()
+27. [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)
 
-28. []()
+28. [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)
 
 29. []()
