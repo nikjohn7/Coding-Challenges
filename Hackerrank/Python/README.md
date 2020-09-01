@@ -57,4 +57,20 @@
 
 28. [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)
 
-29. []()
+29. [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)
+
+30. [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)
+
+31. [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)
+
+32. [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)
+
+33. [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)
+
+34. [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem)
+
+35. [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)
+
+36. [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem)
+
+37. [Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1/problem)
