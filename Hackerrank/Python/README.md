@@ -74,3 +74,31 @@
 36. [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem)
 
 37. [Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1/problem)
+
+38. [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem)
+
+39. [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)
+
+40. [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem)
+
+41. [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem)
+
+42. [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)
+
+43. [Anagram](https://www.hackerrank.com/challenges/anagram/problem)
+
+44. [Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem)
+
+45. [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)
+
+46. [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)
+
+47. [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem)
+
+48. [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard/problem)
+
+49. [Connected Cells in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem)
+
+50. [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem)
+
+51. [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem)
